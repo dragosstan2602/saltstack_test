@@ -1,5 +1,15 @@
-tickets: {
-    ticket_1, 
-    ticket_2, 
-    ticket_3
+{
+    "tickets": {
+        "ticket": [
+            {
+                "id": "1234"
+            },
+            {
+                "id": "2121"
+            },
+            {
+                "id": "3222"
+            }
+        ]
+    }
 }
