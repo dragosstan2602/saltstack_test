@@ -1,5 +1,5 @@
-tickets:
-  - ticket_1
-  - ticket_2
-  - ticket_3
-  
+tickets: {
+    ticket_1, 
+    ticket_2, 
+    ticket_3
+}
