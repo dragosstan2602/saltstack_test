@@ -2,15 +2,15 @@
   "devices": [
     {
       "id": "1234567891",
-      "hostname:": "R1"
+      "hostname": "R1"
     },
     {
       "id": "1234567895",
-      "hostname:": "R5"
+      "hostname": "R5"
     },
     {
       "id": "1234567892",
-      "hostname:": "SW02"
+      "hostname": "SW02"
     }
   ]
 }
